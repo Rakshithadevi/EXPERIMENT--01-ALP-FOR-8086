@@ -1,11 +1,4 @@
 # EXPERIMENT--01-ALP-FOR-8086
-```
-Name :J RAKSHITHA DEVI
-Roll no:212221230082
-Date of experiment :10.09.22
-```
-
-
 
 
 
@@ -73,6 +66,11 @@ Running The Emulator (emu8086) Intro 8086 Microprocessor Emulator, also known as
 ![image](https://user-images.githubusercontent.com/36288975/189273277-113a2a33-4a40-4ff8-95a5-ecd3a1f504fe.png)
 
 
+```
+Name :J RAKSHITHA DEVI
+Roll no:212221230082
+Date of experiment :10.09.22
+```
 
 
 
